@@ -1,0 +1,7 @@
+openai
+chromadb
+python-dotenv
+pypdf
+python-docx
+rank-bm25
+numpy
